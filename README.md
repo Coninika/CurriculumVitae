@@ -22,7 +22,7 @@ CV and certificates updated October 2024.
 
 ### **Doctoral Student – Protein Biochemistry Lab**  
 *Martin Luther University of Halle-Wittenberg | Nov 2022 – Present*  
-- Taught graduate students in advanced techniques like **Fluorescence Correlation Spectroscopy (FCS)** and ** adavnce fluoroscence data analysis**.  
+- Taught graduate students in advanced techniques like **Fluorescence Correlation Spectroscopy (FCS)** and **adavnce fluoroscence data analysis**.  
 - Balance research and teaching schedules, contributing to high-quality research on **nuclear condensates** in cancer.
 
 ### **Research Associate – Colorectal Cancer Early Detection Project**  
